@@ -1,0 +1,22 @@
+main: de.SlamWeasel.WarpGUI.main.Main
+version: 2.0.3.18
+name: WarpGui
+author: SlamWeasel
+
+commands:
+    ignoregui:
+        description: Wenn diese Funktion aktiviert ist kann der Spieler Items inm Inventar bewegen
+
+permissions:
+    warpgui.usegui:
+        description: Erlaubt es das WarpGUI zu benutzen
+    warpgui.ignore.inventorymovelock:
+        description: Erlaubt es sich in seinem Inventar frei zu bewegen
+    warpgui.ignore.droplock:
+        description: Erlaubt es Items zu droppen
+    warpgui.novize:
+        description: Novienrechte
+    warpgui.adept:
+        description: Adeptenrechte
+    warpgui.ignore:
+        description: Aktiviert die Freiheiten im Inventar
